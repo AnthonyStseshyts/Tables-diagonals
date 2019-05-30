@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: snow;
+}
+
+td {
+  padding: 5px;
+  border: solid 1px black;
+  text-align: center;
+}
+
+.main {
+  background-color: red;
+  border: solid 1px red;
+}
+
+.inderect {
+  background-color: blue;
+  border: solid 1px blue;
+}
+
+.active {
+  border: solid 1px pink;
+  background-color: pink; 
+}
